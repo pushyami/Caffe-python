@@ -18,6 +18,5 @@ In this project, I used Python + a caffe-trained CNN to classify and localize im
 	The NN created in Part1 is used in Part2 as well.
 	
 
-	
-
+This project is done as a part of "Artificial Intelligence" course, fall 2017, Purdue University
 
